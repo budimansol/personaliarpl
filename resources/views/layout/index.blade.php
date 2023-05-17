@@ -28,7 +28,7 @@
   <link href="{{ asset('vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+  <link rel="stylesheet" href="{{ asset('css/main.css') }}">
 
   <!-- =======================================================
   * Template Name: Impact - v1.1.1
